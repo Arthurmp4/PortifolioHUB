@@ -1,0 +1,2 @@
+# Valores inteiros positivos e negativos
+# Fiz um programa que pede números inteiros ao usuário e conta quantos números positivos e quantos números negativos foram digitados. O programa para quando o número zero for digitado, mostrando na tela os resultados. Além disso, o programa informa se há mais números positivos, mais números negativos ou se há a mesma quantidade.

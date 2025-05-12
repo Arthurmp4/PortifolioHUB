@@ -1,0 +1,2 @@
+# Conversor de temperatura
+# Realizei um programa que converte a temperatura de graus Celsius para graus Farenheit ou vice-versa. O programa pergunta se a temperatura de entrada está em Celsius ou Farenheit e mostra a temperatura digitada convertida para a outra unidade.
